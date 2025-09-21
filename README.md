@@ -6,4 +6,5 @@ A collection of reusable smart contracts for Ethereum and other EVM-compatible b
 
 ### Foundry
 ```bash
-forge install dezcode/dezcode-contracts
+forge install Dezcode-contrac
+ts/dezcode-contracts
